@@ -1,0 +1,8 @@
+Q: How can I open a savings account?
+A: You can open a savings account by visiting our nearest branch or applying online through our website.
+
+Q: What is the minimum balance requirement?
+A: The minimum balance required for a savings account is ₹5000.
+
+Q: How do I reset my internet banking password?
+A: Visit our login page and click on ‘Forgot Password’ to reset it using your registered mobile number.
